@@ -8,7 +8,7 @@ No fundo do ecrã é possível ver o instante atual em que a habitação se enco
 
 Classes
 
-	Foram criadas classes para: 
+Foram criadas classes para: 
 Habitacao: composta por um vector de zonas (já que podem existir várias zonas numa habitação), e o seu tamanho (linhas e colunas), existem métodos para aceder a dimensão da habitação e construir/destruir uma habitação, o construtor recebe o tamanho da nova habitação (linhas, colunas); 
 
 Zona: composta por linhas e colunas (posição onde fica na habitação), o seu ID, e vectores para as propriedades, sensores, aparelhos e processadores da zona, tem métodos para adicionar esses componentes à zona e o seu construtor recebe o espaço que ela ocupa (linhas e colunas) e o seu ID;
