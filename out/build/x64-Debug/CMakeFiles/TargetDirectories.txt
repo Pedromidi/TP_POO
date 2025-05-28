@@ -1,0 +1,3 @@
+D:/UNI/POO/TP/out/build/x64-Debug/CMakeFiles/TP.dir
+D:/UNI/POO/TP/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/UNI/POO/TP/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
